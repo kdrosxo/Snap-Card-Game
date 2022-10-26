@@ -7,4 +7,4 @@ Both players flip cards. When two of the cards match ,players must call snap.The
 For player1: Q for drawing card, W for calling SNAP
 For player2: O for drawing card, P for calling SNAP
 
-theme: Architect
+![title screen] (https://github.com/kdrosxo/Snap-Card-Game/blob/main/snapgame.png)
